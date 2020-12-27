@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "class2-variables-types-in-csharp/1.0.0": {
+        "runtime": {
+          "class2-variables-types-in-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "class2-variables-types-in-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
