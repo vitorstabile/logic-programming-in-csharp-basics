@@ -1,8 +1,0 @@
-{
-  "runtimeOptions": {
-    "additionalProbingPaths": [
-      "C:\\Users\\solun\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\solun\\.nuget\\packages"
-    ]
-  }
-}
