@@ -1,4 +1,4 @@
-<h1 align="center"> Logic Programming with C# </h1>
+<h1 align="center"> C# </h1>
 
 # Content
 
